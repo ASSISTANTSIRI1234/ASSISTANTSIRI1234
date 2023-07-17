@@ -1,0 +1,5 @@
+- 👋 Hi, I’m harsh thakur
+- 👀 I’m interested in Computer Science & microchip Architecture
+- 🌱 I’m currently learning C++ & DBMS
+- 💞️ I’m looking to collaborate on Projects,Internships and Research
+- 📫 How to reach me - harshkumar_ee20a13_53@dtu.ac.in
