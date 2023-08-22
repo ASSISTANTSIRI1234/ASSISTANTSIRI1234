@@ -1,4 +1,4 @@
-- 👋 Hi, I’m harsh thakur
+- 👋 Hi, I’m harsh kumar
 - 👀 I’m interested in Computer Science & microchip Architecture
 - 🌱 I’m currently learning C++ & DBMS
 - 💞️ I’m looking to collaborate on Projects,Internships and Research
